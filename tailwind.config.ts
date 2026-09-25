@@ -20,8 +20,8 @@ const config: Config = {
                 "near-black": "#0D0D0D",
             },
             letterSpacing: {
-                editorial: "0.2em",
-                luxury: "0.35em",
+                editorial: "0.3em",
+                luxury: "0.45em",
             },
         },
     },
